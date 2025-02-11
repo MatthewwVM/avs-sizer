@@ -1,0 +1,6 @@
+# Ignore WordPress Core Files
+wp-content/uploads/
+wp-content/themes/
+
+# Ignore Local Database
+db_data/
