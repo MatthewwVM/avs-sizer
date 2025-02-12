@@ -4,3 +4,7 @@ wp-content/themes/
 
 # Ignore Local Database
 db_data/
+
+# Ignore docker file and nginx
+docker-compose.yml
+nginx-conf/
